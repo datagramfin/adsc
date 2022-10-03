@@ -1,2 +1,2 @@
 # adsc
-Testing of Applied DS Capstone
+Applied DS Capstone
